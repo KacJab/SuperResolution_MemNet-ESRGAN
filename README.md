@@ -24,4 +24,7 @@ Uruchomienie wymaga:
  
  -bibliotek: opencv2, cuda, pytorch
 
+Dokładniejsze opisy algorytmów w pliku Dokumentacja.pdf
+
+
 Wyniki porównań oraz zdjęcia wykrozystane do porównania można znaleźć tutaj - https://aghedupl-my.sharepoint.com/personal/kacjab_student_agh_edu_pl/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkacjab_student_agh_edu_pl%2FDocuments%2FML_SR_2022&ga=1
